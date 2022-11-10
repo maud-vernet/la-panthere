@@ -1056,3 +1056,7 @@ h4 {
     margin-left: auto;
     margin-right: auto;
 }
+
+#presentation-logo {
+    width: 100px;
+}
