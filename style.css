@@ -1066,3 +1066,7 @@ h4 {
 footer p {
     color: #333333!important;
 }
+
+.social > span {
+    color: #333333!important;
+}
